@@ -1,5 +1,5 @@
 # EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
-## DATE:
+
 ## AIM:
 To write a Python program to solve the Rat in a Maze problem using backtracking, where the rat must find a path from the top-left corner to the bottom-right corner of a maze represented by a 2D matrix.
 
